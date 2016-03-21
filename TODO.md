@@ -1,0 +1,4 @@
+- seperate model into external json
+- handlers should be loaded from dynamic lib 
+- support mixins
+- support generators
